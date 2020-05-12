@@ -12,3 +12,8 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Testing leads to failure, and failure leads to understanding.
+The best error message is the one that never shows up.
+clarity is better than brevity
+The only way to learn a new programming language is by writing programs in it.
+Programming isn't about what you know; it's about what you can figure ou
